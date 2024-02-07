@@ -1,11 +1,19 @@
-# Vue-bank-card
+# bank-card
 
-* I tried to turn my frontend mentor project to a Vue project although i did'nt follow all the guidelines.
+## Project setup
+```
+npm install
+```
 
-1. users should be able to input their details and see it display on the front and back card
-2. if the details given is valid they should see a success write up
-3. if details are not valid an alert will pop up
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-  A link to the live demo
-    https://vue-bank-card.netlify.app/
-    
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
